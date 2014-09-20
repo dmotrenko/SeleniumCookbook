@@ -1,0 +1,3 @@
+featureTests/CheckUserLoggedInToDashboardTest.class
+wordpress/testselenium2014/tests/pageobjects/LoginPage.class
+featureTests/CheckMenuLinksTest.class
